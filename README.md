@@ -10,7 +10,14 @@ my first project for my future career, this web is just an example or test
   <h1>Hello I'm Faissal</h1>
   <br
   <p>Wassup Baigin?</p> 
-  <center><button><h2>click here</h2></button></center>
+   <button id="myButton" onclick="changeText()">clicki hna!</button>
+  <p id="clicki abb"></p>
+
+  <script>
+    function changeText() {
+      document.getElementById("responseText").textContent = "dor t7awa sf";
+    }
+  </script>
   <html>
     <head>
         <meta charset="utf-8">
