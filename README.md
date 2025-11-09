@@ -1,2 +1,25 @@
 # faissal-web
 my first project for my future career, this web is just an example or test
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <title>Faissal</title>
+</head>
+<body>
+  <h1>Hello I'm Faissal</h1>
+  <br
+  <p>Wassup Baigin?</p> 
+  <center><button><h2>click here</h2></button></center>
+  <html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="refresh" content="3">
+        <title>Faissal</title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+    </head>
+ <script>
+    console.log('HTML Faissal loaded');
+  </script>
+</html>
