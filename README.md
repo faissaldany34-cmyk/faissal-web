@@ -22,8 +22,6 @@ my first project for my future career, this web is just an example or test
  <script>
     console.log('HTML Faissal loaded');
   </script>
-    <!DOCTYPE html>
-<html lang="en">
 <head>
   <meta charset="UTF-8">
   <title>Button Text Change Example</title>
@@ -38,5 +36,4 @@ my first project for my future career, this web is just an example or test
     }
   </script>
 </body>
-</html>
 </html>
