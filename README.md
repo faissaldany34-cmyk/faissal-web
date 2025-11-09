@@ -12,29 +12,10 @@ my first project for my future career, this web is just an example or test
   <h4><p>Wassup Baigin?</p></h4>
  <button id="myButton" onclick="changeText()">clicki hna!</button>
   <p id="responseText"></p>
-  onclick="alert('dor t7awa sf')"
-  <html>
-    <head>
-        <meta charset="utf-8">
-        <meta http-equiv="refresh" content="3">
-        <title>Faissal</title>
-        <meta name="description" content="">
-        <meta name="viewport" content="width=device-width, initial-scale=1">
-    </head>
- <script>
-    console.log('HTML Faissal loaded');
-  </script>
-<head>
-  <meta charset="UTF-8">
-  <title>Button Text Change Example</title>
-</head>
-<body>
-  <button id="myButton" onclick="changeText()">clicki hna!</button>
-  <p id="clicki abb"></p>
 
   <script>
     function changeText() {
-      document.getElementById("responseText").textContent = "dor t7awa sf";
+      document.getElementById("responseText").textContent = "sf dor t7awa";
     }
   </script>
 </body>
