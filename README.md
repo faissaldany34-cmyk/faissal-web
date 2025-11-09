@@ -22,4 +22,21 @@ my first project for my future career, this web is just an example or test
  <script>
     console.log('HTML Faissal loaded');
   </script>
+    <!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Button Text Change Example</title>
+</head>
+<body>
+  <button id="myButton" onclick="changeText()">clicki hna :)</button>
+  <p id="responseText"></p>
+
+  <script>
+    function changeText() {
+      document.getElementById("responseText").textContent = "dor t7awa sf";
+    }
+  </script>
+</body>
+</html>
 </html>
