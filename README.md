@@ -12,11 +12,7 @@ my first project for my future career, this web is just an example or test
   <h4><p>Wassup Baigin?</p></h4>
  <button id="myButton" onclick="changeText()">clicki hna!</button>
   <p id="responseText"></p>
-  <script>
-    function changeText() {
-      document.getElementById("responseText").textContent = "dor t7awa sf";
-    }
-  </script>
+  onclick="alert('dor t7awa sf')"
   <html>
     <head>
         <meta charset="utf-8">
