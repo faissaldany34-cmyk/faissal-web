@@ -27,8 +27,8 @@ my first project for my future career, this web is just an example or test
   <title>Button Text Change Example</title>
 </head>
 <body>
-  <button id="myButton" onclick="changeText()">clicki hna :)</button>
-  <p id="responseText"></p>
+  <button id="myButton" onclick="changeText()">clicki hna!</button>
+  <p id="clicki abb"></p>
 
   <script>
     function changeText() {
